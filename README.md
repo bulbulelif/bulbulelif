@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a desktop project.<br>🌱 I'm currently learning web development.<br>📫 How to reach me: elifbulbulofficial@gmail.com
+🔭 I'm currently working on a mobile app project.<br>🌱 I'm currently learning web development.<br>📫 How to reach me: elifbulbulofficial@gmail.com
 
 
 # 💻 Tech Stack:
